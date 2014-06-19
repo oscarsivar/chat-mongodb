@@ -1,0 +1,19 @@
+{
+  "name": "Chat-mongoDB",
+  "version": "0.0.1",
+  "description": "Probando Mongodb y Node.js",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "~1.4.6",
+    "socket.io": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Oscar Elias",
+  "license": "ISC"
+}
